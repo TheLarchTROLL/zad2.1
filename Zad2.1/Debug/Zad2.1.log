@@ -1,0 +1,4 @@
+﻿  Zad2.1.cpp
+c:\users\admj\source\repos\zad2.1\zad2.1\zad2.1.cpp(29): warning C4244: "inicjowanie": konwersja z "float" do "unsigned int", możliwa utrata danych
+c:\users\admj\source\repos\zad2.1\zad2.1\zad2.1.cpp(30): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Zad2.1.vcxproj -> C:\Users\admj\source\repos\Zad2.1\Debug\Zad2.1.exe
